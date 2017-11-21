@@ -1,5 +1,7 @@
 # Universal Image Loader With Grid Recycler View
 
+[![grid_view.png](https://s18.postimg.org/m4hv9wmfd/grid_view.png)](https://postimg.org/image/7y24eobk5/)
+
 I want to provide code with the latest recycler view that will have powerful, flexible and highly customizable instrument for image loading, caching and displaying. It provides a lot of configuration options and good control over the image loading and caching process.
 
 ## Features
